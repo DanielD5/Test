@@ -1,7 +1,7 @@
 /*
 * <applet code="HelloWorld" width=200 height=100>
 * </applet>
-*
+*Some new comment
 */
 import java.applet.*;
 import java.awt.*;
